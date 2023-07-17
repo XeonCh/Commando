@@ -1,5 +1,19 @@
+---
 name: Commando
 antigen: CortexPE\Commando
-api: 4.0.0
-version: 3.1.0
+api: 5.0.0
+version: 3.0.0
 author: CortexPE
+authors:
+- ParoxityTeam
+build:
+  builder: PoggitCI/1.0-beta/beta poggit-virion/1.0
+  builderName: poggit
+  buildTime: "2023-06-12T05:16:39+00:00"
+  poggitBuildId: 156932
+  buildClass: Dev
+  projectId: 6805
+  projectBuildNumber: 33
+  fromCommit: d34b2fc71e5a0af130b240c9717c4b05f4b1624f
+  poggitResourceId: 211731
+...
